@@ -7,12 +7,13 @@
 > This repository showcases an end-to-end AI Agent environment that automates professional branding and profile optimization entirely in the background. Inspired by Saumya Singh's Agentic AI framework.
 
 ---
+## 🚀 Live Project Deployments
 
-## 🚀 Live Demo
+Click the links below to interact with the live system:
 
-Want to test this agent yourself? Click the link below to open the live Codex deployment:
-
-👉 [**Click Here to Test My Live LinkedIn Reviewer Agent**](https://agent.ai/agent/qdumikivy39dwobc)
+* 👤 **Developer Profile:** [https://agent.ai/agent/qdumikivy39dwobc]
+* 🤖 **Active AI Agent:** [https://agent.ai/agent/qdumikivy39dwobc]
+* 🆔 **Deployment ID:** [qdumikivy39dwobc]
 
 ---
 
